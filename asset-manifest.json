@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formulario-react-excel/static/css/main.50f6c1b0.css",
+    "main.js": "/formulario-react-excel/static/js/main.26e6ece7.js",
+    "static/js/453.f58cfb1f.chunk.js": "/formulario-react-excel/static/js/453.f58cfb1f.chunk.js",
+    "index.html": "/formulario-react-excel/index.html",
+    "main.50f6c1b0.css.map": "/formulario-react-excel/static/css/main.50f6c1b0.css.map",
+    "main.26e6ece7.js.map": "/formulario-react-excel/static/js/main.26e6ece7.js.map",
+    "453.f58cfb1f.chunk.js.map": "/formulario-react-excel/static/js/453.f58cfb1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50f6c1b0.css",
+    "static/js/main.26e6ece7.js"
+  ]
+}
